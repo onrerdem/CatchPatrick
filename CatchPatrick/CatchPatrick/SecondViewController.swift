@@ -22,6 +22,8 @@ class SecondViewController: UIViewController {
     @IBOutlet weak var Img8: UIImageView!
     @IBOutlet weak var Img9: UIImageView!
     
+    // Github Test
+    
     var score : Int = 0
     var highScore : Int = 0
     var timer = Timer()
