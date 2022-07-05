@@ -23,6 +23,7 @@ class SecondViewController: UIViewController {
     @IBOutlet weak var Img9: UIImageView!
     
     // Github Test
+    //test2
     
     var score : Int = 0
     var highScore : Int = 0
